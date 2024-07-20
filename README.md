@@ -1,6 +1,4 @@
-Certainly, Daniel! Here's a nice GitHub README template for you:
 
----
 
 # 💻 Daniel Odoi
 
@@ -33,7 +31,7 @@ I specialize in building responsive and dynamic web applications, as well as cro
 
 ### 🌱 Current Focus
 
-I'm always looking to expand my knowledge and stay up-to-date with the latest industry trends. Currently, I'm deepening my expertise in [mention any areas you're currently focusing on, e.g., "serverless architectures" or "AI integration in web apps"].
+I'm always looking to expand my knowledge and stay up-to-date with the latest industry trends. Currently, I'm deepening my expertise in Mobile development 
 
 ### 📈 GitHub Stats
 
@@ -51,4 +49,4 @@ I'm always looking to expand my knowledge and stay up-to-date with the latest in
 
 Feel free to reach out if you want to collaborate on any project or just want to say hi!
 
----
+
