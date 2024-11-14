@@ -39,7 +39,7 @@ I'm always looking to expand my knowledge and stay up-to-date with the latest in
 
 ### 🌟 Top Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ReddIndiann&repo=your-repo-name&theme=radical)](https://github.com/ReddIndiann/your-repo-name)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ReddIndiann&repo=messagesapp&theme=radical)](https://github.com/ReddIndiann/messagesapp)
 
 ### 📫 Contact Me
 
